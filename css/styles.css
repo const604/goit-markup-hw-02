@@ -182,8 +182,8 @@ body {
   text-align: center;
 }
 
-.filters .link:hover,
-.filters .link:focus {
+.filters-link:hover,
+.filters-link:focus {
   background-color: var(--accent-color);
   color: var(--primary-white-color);
 }
